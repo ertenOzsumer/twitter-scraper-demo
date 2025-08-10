@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env files
+.env
+.env.*
+
+# Output
+out/
+*.csv
+*.xlsx
+*.pdf
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Playwright storage
+playwright/.cache/
