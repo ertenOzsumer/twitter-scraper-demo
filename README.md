@@ -19,7 +19,7 @@ Production-ready starter to fetch **public metrics** from Twitter/X, compute ana
 ## Quickstart
 
 ```bash
-git clone https://github.com/<you>/twitter-x-analytics-scraper.git
+git clone https://github.com/ertenOzsumer/twitter-scraper-demo.git
 cd twitter-x-analytics-scraper
 cp .env.example .env   # add your TWITTER_BEARER_TOKEN
 python -m venv .venv && source .venv/bin/activate
